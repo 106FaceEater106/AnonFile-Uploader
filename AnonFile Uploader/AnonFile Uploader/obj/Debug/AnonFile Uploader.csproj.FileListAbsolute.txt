@@ -1,0 +1,13 @@
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\bin\Debug\AnonFile Uploader.exe.config
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\bin\Debug\AnonFile Uploader.exe
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\bin\Debug\AnonFile Uploader.pdb
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\bin\Debug\MetroFramework.dll
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.csprojAssemblyReference.cache
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile_Uploader.Form1.resources
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile_Uploader.Properties.Resources.resources
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.csproj.GenerateResource.cache
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.csproj.CopyComplete
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.exe
+C:\Users\steal\source\repos\AnonFile Uploader\AnonFile Uploader\obj\Debug\AnonFile Uploader.pdb
