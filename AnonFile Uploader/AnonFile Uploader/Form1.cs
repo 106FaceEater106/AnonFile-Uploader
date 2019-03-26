@@ -31,8 +31,6 @@ namespace AnonFile_Uploader
                 filePath = ofd.FileName;
             }
 
-           // new WebClient().UploadFile(url, "POST", filePath);
-
             using (var webClient = new WebClient())
             {
                 var response = webClient.UploadFile(url, filePath);
