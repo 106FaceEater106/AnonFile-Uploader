@@ -13,4 +13,5 @@ API ключ нужен для отслеживания ваших файлов.
 Но вам не обязательно его иметь для загрузки ваших файлов ;)
 
 Thx (changes):
-https://github.com/Gusted
+
+https://github.com/Gusted (api links)
