@@ -24,20 +24,20 @@ namespace AnonFile_Uploader
 
                 if (ppr.Length > 0)
                 {
-                    string url = "https://anonfile.com/api/upload?token=" + ppr;
+                    string url = "https://api.anonfile.com/upload?token=" + ppr;
                     return url;
                 }
 
                 else
                 {
-                    string url = "https://anonfile.com/api/upload";
+                    string url = "https://api.anonfile.com/upload";
                     return url;
                 }
             }
 
             else
             {
-                string url = "https://anonfile.com/api/upload";
+                string url = "https://api.anonfile.com/upload";
                 return url;
             }
         }
