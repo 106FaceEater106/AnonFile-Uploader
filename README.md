@@ -14,4 +14,4 @@ API ключ нужен для отслеживания ваших файлов.
 
 Thx (changes):
 
-https://github.com/Gusted (api links)
+https://github.com/Gusted (api links, Helper.cs)
